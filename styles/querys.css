@@ -1,34 +1,39 @@
 
 @media screen and (min-width: 375px) and (max-width:800px){
+    .nav__container1 img{display: none;}
     .nav__container2 a{display: none;}
-    .main__container2 img {width: 300px;}
+    .main__container2{width: 200px;}
+    .main__container2 img {width: 250px;}
     .nav__container1{margin-left: 60px;}
-    .nav__container2 img{display: block;}
-
+    .nav__container2 img{
+        display: block;
+        width: 35px;
+    }
     
     .main__imgs{
         margin: 0px;
         padding: 0px;
-        width: 400px;
+        width: 100%;
         
     }
     .main__imgs img{
         display: block;
-        width: 350px;
+        width: 250px;
         margin-top: 100px;
-        margin-left: 70px;
+        margin-left: 50px;
     }
 
     .main__infos{
-       width: 300px;
+       font-size: 2.7vh;
+       width: 330px;
        margin: auto;
        margin-top: 120px;
-       margin-left: 50px;
+       margin-left: 10px;
     }
     
     #container__hidden{
-        width: 450px;
-        margin-left: -30px;
+        width: 320px;
+        margin-left: -5px;
     }
     
 }

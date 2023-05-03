@@ -51,7 +51,7 @@ nav{
 .nav__container3{
     display: none;
     margin-top: 30px;
-    margin-right: 80px;
+    margin-right: 5px;
     background-color: black;
     padding: 10px;
     padding-right: 30px;
@@ -176,7 +176,6 @@ main section h1{
 }
 
 .main__infos p{
-    width: 400px;
     line-height: 30px;
 }
 
