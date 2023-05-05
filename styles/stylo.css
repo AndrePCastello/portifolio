@@ -58,8 +58,10 @@ nav{
 
 .nav__container3{
     display: none;
+    position: fixed;
+    width: 95%;
+    top: 55px;
     margin-top: 30px;
-    margin-right: 5px;
     background-color: black;
     padding: 10px;
     padding-right: 30px;
