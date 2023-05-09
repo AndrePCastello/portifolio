@@ -82,9 +82,7 @@ nav{
 main{
     display: flex;
     width: 80%;
-    margin: auto;
-    margin-top: 79px;
-    margin-left: 70px;
+    margin: 145px 70px -10px;
     justify-content: space-between;
     flex-wrap: wrap;
 }
